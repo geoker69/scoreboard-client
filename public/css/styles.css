@@ -1,0 +1,33 @@
+body {
+  background-color: #222;
+}
+p, h1 {
+  color: #eee;
+  font-family: 'Lucida Console', Monaco, monospace;
+  font-size: 32px;
+}
+#clock {
+  font-size: 100px;
+  line-height: 110px;
+  text-align: center;
+  color: yellow;
+}
+.score {
+  font-size: 260px;
+  line-height: 280px;
+}
+.homeTeam {
+  background: #333;
+}
+p#homeName {
+  font-size: 32px;
+}
+.awayTeam {
+  background: #333;
+}
+p#awayName {
+  font-size: 32px;
+}
+.hidden {
+  display: none;
+}
